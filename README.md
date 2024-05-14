@@ -1,5 +1,1 @@
-<a href="https://app.daily.dev/tayio">
-<img
-src="https://app.daily.dev/devcards/v2/YIxBDba64iUnZMQIhXoKT.png?=7dz"
-width="356" alt="berlintay's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/tayio"><img src="https://api.daily.dev/devcards/v2/YlxBDba64iUnZMQIhXoKT.png?type=default&r=o4x" width="356" alt="tay.io's Dev Card"/></a>
