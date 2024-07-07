@@ -9,13 +9,15 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: metric
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
 
-          token: {{ secrets.SECRET_FUCKYOU }}
+          token: ${{ secrets.SECRET_FUCKYOU }}
 
           # Options
           user: berlintay
