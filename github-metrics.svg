@@ -4,7 +4,7 @@
   <style data-optimizable="true">/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-    font-size: 14px;
+    font-size: 16px;
     color: #777777;
   }
 
@@ -58,7 +58,7 @@
 /* Headers */
   h1, h2, h3 {
     margin: 8px 0 2px;
-    padding: 0;
+    padding: 2;
     color: #0366d6;
     font-weight: normal;
   }
@@ -70,10 +70,10 @@
     font-weight: bold;
   }
   h2 {
-    font-size: 16px;
+    font-size: 18px;
   }
   h3 {
-    font-size: 14px;
+    font-size: 16px;
   }
   .h-details {
     margin: 0 4px;
