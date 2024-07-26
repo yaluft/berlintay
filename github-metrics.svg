@@ -40,7 +40,7 @@
 
 /* Columns display */
   svg.columns .items-wrapper{
-    column-count: 2;
+    column-count: 3;
     column-gap: 10px;
   }
   svg.columns .items-wrapper&gt;*{
@@ -51,7 +51,7 @@
 
   @media (max-width: 850px){
     svg.columns .items-wrapper{
-      column-count: 1;
+      column-count: 3;
     }
   }
 
@@ -70,10 +70,10 @@
     font-weight: bold;
   }
   h2 {
-    font-size: 16px;
+    font-size: 18px;
   }
   h3 {
-    font-size: 14px;
+    font-size: 16px;
   }
   .h-details {
     margin: 0 4px;
@@ -162,7 +162,7 @@
   }
 
   .organization.avatar {
-    border-radius: 15%;
+    border-radius: 30%;
   }
 
   .organization.name {
