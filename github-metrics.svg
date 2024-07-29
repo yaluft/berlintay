@@ -1730,7 +1730,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1758,7 +1758,7 @@
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            168 Commits
+            171 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    293k added, 216k removed
+                    287k added, 215k removed
                   
                 </div>
             
@@ -2040,7 +2040,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 21 commits)</small>
+        <small class="h-details">(computed from last 24 commits)</small>
       
     </h2>
     
@@ -2050,7 +2050,7 @@
             <li>Uses spaces for indentation</li>
           
           
-            <li>Has approximately 30.8 characters per line of code written</li>
+            <li>Has approximately 123.1 characters per line of code written</li>
           
           
             <li>Mostly pushes code around 23:00</li>
@@ -2070,7 +2070,7 @@
           <h3>Commit activity per hour of day</h3>
           
             <div class="row margin-bottom">
-              <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160"><g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/><g class="tick" opacity="1" transform="translate(10.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">0</text></g><g class="tick" opacity="1" transform="translate(30.065217391304348,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">1</text></g><g class="tick" opacity="1" transform="translate(49.630434782608695,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2</text></g><g class="tick" opacity="1" transform="translate(69.19565217391305,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">3</text></g><g class="tick" opacity="1" transform="translate(88.76086956521739,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">4</text></g><g class="tick" opacity="1" transform="translate(108.32608695652173,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">5</text></g><g class="tick" opacity="1" transform="translate(127.8913043478261,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">6</text></g><g class="tick" opacity="1" transform="translate(147.45652173913044,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">7</text></g><g class="tick" opacity="1" transform="translate(167.02173913043478,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">8</text></g><g class="tick" opacity="1" transform="translate(186.58695652173913,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">9</text></g><g class="tick" opacity="1" transform="translate(206.15217391304347,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">10</text></g><g class="tick" opacity="1" transform="translate(225.7173913043478,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">11</text></g><g class="tick" opacity="1" transform="translate(245.2826086956522,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12</text></g><g class="tick" opacity="1" transform="translate(264.8478260869565,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">13</text></g><g class="tick" opacity="1" transform="translate(284.4130434782609,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">14</text></g><g class="tick" opacity="1" transform="translate(303.9782608695652,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">15</text></g><g class="tick" opacity="1" transform="translate(323.54347826086956,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">16</text></g><g class="tick" opacity="1" transform="translate(343.10869565217394,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">17</text></g><g class="tick" opacity="1" transform="translate(362.67391304347825,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">18</text></g><g class="tick" opacity="1" transform="translate(382.2391304347826,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">19</text></g><g class="tick" opacity="1" transform="translate(401.80434782608694,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">20</text></g><g class="tick" opacity="1" transform="translate(421.3695652173913,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">21</text></g><g class="tick" opacity="1" transform="translate(440.9347826086956,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">22</text></g><g class="tick" opacity="1" transform="translate(460.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">23</text></g></g><g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start"><g class="tick" opacity="1" transform="translate(0,21.05555555555556)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">8</text></g><g class="tick" opacity="1" transform="translate(0,42.16666666666667)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">6</text></g><g class="tick" opacity="1" transform="translate(0,63.27777777777778)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</text></g><g class="tick" opacity="1" transform="translate(0,84.3888888888889)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</text></g><g class="tick" opacity="1" transform="translate(0,105.5)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text></g></g><path transform="translate(10,10)" d="M10,94.444L29.565,94.444L49.13,105L68.696,83.889L88.261,73.333L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,94.444L323.043,105L342.609,105L362.174,94.444L381.739,105L401.304,105L420.87,105L440.435,73.333L460,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/><path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,10L440.435,73.333L420.87,105L401.304,105L381.739,105L362.174,94.444L342.609,105L323.043,105L303.478,94.444L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,73.333L68.696,83.889L49.13,105L29.565,94.444L10,94.444Z" fill="rgba(88, 166, 255, .1)"/><g><circle transform="translate(10,10)" cx="10" cy="94.44444444444444" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="29.565217391304348" cy="94.44444444444444" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="68.69565217391305" cy="83.8888888888889" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="88.26086956521739" cy="73.33333333333334" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="127.3913043478261" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="146.95652173913044" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="225.2173913043478" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="264.3478260869565" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="303.4782608695652" cy="94.44444444444444" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="362.17391304347825" cy="94.44444444444444" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="401.30434782608694" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="420.8695652173913" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="440.4347826086956" cy="73.33333333333334" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="460" cy="10" r="2" fill="#106cbc"/></g><g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill"><text transform="translate(10,6)" x="10" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text><text transform="translate(10,6)" x="29.565217391304348" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text><text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="68.69565217391305" y="83.8888888888889" fill="rgba(127, 127, 127, .8)">2</text><text transform="translate(10,6)" x="88.26086956521739" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">3</text><text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="127.3913043478261" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="146.95652173913044" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="225.2173913043478" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="264.3478260869565" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="303.4782608695652" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text><text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="362.17391304347825" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text><text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="401.30434782608694" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="420.8695652173913" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="440.4347826086956" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">3</text><text transform="translate(10,6)" x="460" y="10" fill="rgba(127, 127, 127, .8)">9</text></g></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160"><g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/><g class="tick" opacity="1" transform="translate(10.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">0</text></g><g class="tick" opacity="1" transform="translate(30.065217391304348,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">1</text></g><g class="tick" opacity="1" transform="translate(49.630434782608695,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2</text></g><g class="tick" opacity="1" transform="translate(69.19565217391305,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">3</text></g><g class="tick" opacity="1" transform="translate(88.76086956521739,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">4</text></g><g class="tick" opacity="1" transform="translate(108.32608695652173,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">5</text></g><g class="tick" opacity="1" transform="translate(127.8913043478261,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">6</text></g><g class="tick" opacity="1" transform="translate(147.45652173913044,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">7</text></g><g class="tick" opacity="1" transform="translate(167.02173913043478,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">8</text></g><g class="tick" opacity="1" transform="translate(186.58695652173913,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">9</text></g><g class="tick" opacity="1" transform="translate(206.15217391304347,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">10</text></g><g class="tick" opacity="1" transform="translate(225.7173913043478,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">11</text></g><g class="tick" opacity="1" transform="translate(245.2826086956522,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12</text></g><g class="tick" opacity="1" transform="translate(264.8478260869565,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">13</text></g><g class="tick" opacity="1" transform="translate(284.4130434782609,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">14</text></g><g class="tick" opacity="1" transform="translate(303.9782608695652,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">15</text></g><g class="tick" opacity="1" transform="translate(323.54347826086956,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">16</text></g><g class="tick" opacity="1" transform="translate(343.10869565217394,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">17</text></g><g class="tick" opacity="1" transform="translate(362.67391304347825,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">18</text></g><g class="tick" opacity="1" transform="translate(382.2391304347826,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">19</text></g><g class="tick" opacity="1" transform="translate(401.80434782608694,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">20</text></g><g class="tick" opacity="1" transform="translate(421.3695652173913,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">21</text></g><g class="tick" opacity="1" transform="translate(440.9347826086956,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">22</text></g><g class="tick" opacity="1" transform="translate(460.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">23</text></g></g><g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start"><g class="tick" opacity="1" transform="translate(0,21.05555555555556)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">8</text></g><g class="tick" opacity="1" transform="translate(0,42.16666666666667)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">6</text></g><g class="tick" opacity="1" transform="translate(0,63.27777777777778)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</text></g><g class="tick" opacity="1" transform="translate(0,84.3888888888889)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</text></g><g class="tick" opacity="1" transform="translate(0,105.5)"><line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text></g></g><path transform="translate(10,10)" d="M10,94.444L29.565,62.778L49.13,105L68.696,83.889L88.261,73.333L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,94.444L323.043,105L342.609,105L362.174,94.444L381.739,105L401.304,105L420.87,105L440.435,73.333L460,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/><path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,10L440.435,73.333L420.87,105L401.304,105L381.739,105L362.174,94.444L342.609,105L323.043,105L303.478,94.444L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,73.333L68.696,83.889L49.13,105L29.565,62.778L10,94.444Z" fill="rgba(88, 166, 255, .1)"/><g><circle transform="translate(10,10)" cx="10" cy="94.44444444444444" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="29.565217391304348" cy="62.77777777777778" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="68.69565217391305" cy="83.8888888888889" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="88.26086956521739" cy="73.33333333333334" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="127.3913043478261" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="146.95652173913044" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="225.2173913043478" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="264.3478260869565" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="303.4782608695652" cy="94.44444444444444" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="362.17391304347825" cy="94.44444444444444" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="401.30434782608694" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="420.8695652173913" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="440.4347826086956" cy="73.33333333333334" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="460" cy="10" r="2" fill="#106cbc"/></g><g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill"><text transform="translate(10,6)" x="10" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text><text transform="translate(10,6)" x="29.565217391304348" y="62.77777777777778" fill="rgba(127, 127, 127, .8)">4</text><text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="68.69565217391305" y="83.8888888888889" fill="rgba(127, 127, 127, .8)">2</text><text transform="translate(10,6)" x="88.26086956521739" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">3</text><text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="127.3913043478261" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="146.95652173913044" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="225.2173913043478" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="264.3478260869565" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="303.4782608695652" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text><text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="362.17391304347825" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text><text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="401.30434782608694" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="420.8695652173913" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="440.4347826086956" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">3</text><text transform="translate(10,6)" x="460" y="10" fill="rgba(127, 127, 127, .8)">9</text></g></svg>
             </div>
           
         </div>
@@ -2082,7 +2082,7 @@
             <h3>Commit activity per day of week</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H196.5"/><g class="tick" opacity="1" transform="translate(10.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sun</text></g><g class="tick" opacity="1" transform="translate(41.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon</text></g><g class="tick" opacity="1" transform="translate(72.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue</text></g><g class="tick" opacity="1" transform="translate(103.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed</text></g><g class="tick" opacity="1" transform="translate(134.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu</text></g><g class="tick" opacity="1" transform="translate(165.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri</text></g><g class="tick" opacity="1" transform="translate(196.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat</text></g></g><g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start"><g class="tick" opacity="1" transform="translate(0,26.33333333333333)"><line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">10</text></g><g class="tick" opacity="1" transform="translate(0,65.91666666666666)"><line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">5</text></g><g class="tick" opacity="1" transform="translate(0,105.5)"><line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text></g></g><path transform="translate(10,10)" d="M10,10L41,105L72,105L103,57.5L134,105L165,89.167L196,97.083" fill="transparent" stroke="#87ceeb" stroke-width="2"/><path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,97.083L165,89.167L134,105L103,57.5L72,105L41,105L10,10Z" fill="rgba(88, 166, 255, .1)"/><g><circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="41" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="103" cy="57.5" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="165" cy="89.16666666666667" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="196" cy="97.08333333333333" r="2" fill="#106cbc"/></g><g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill"><text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">12</text><text transform="translate(10,6)" x="41" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="103" y="57.5" fill="rgba(127, 127, 127, .8)">6</text><text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="165" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">2</text><text transform="translate(10,6)" x="196" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">1</text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H196.5"/><g class="tick" opacity="1" transform="translate(10.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sun</text></g><g class="tick" opacity="1" transform="translate(41.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon</text></g><g class="tick" opacity="1" transform="translate(72.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue</text></g><g class="tick" opacity="1" transform="translate(103.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed</text></g><g class="tick" opacity="1" transform="translate(134.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu</text></g><g class="tick" opacity="1" transform="translate(165.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri</text></g><g class="tick" opacity="1" transform="translate(196.5,0)"><line stroke="currentColor" y2="6" stroke-opacity="0.5"/><text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat</text></g></g><g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start"><g class="tick" opacity="1" transform="translate(0,26.33333333333333)"><line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">10</text></g><g class="tick" opacity="1" transform="translate(0,65.91666666666666)"><line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">5</text></g><g class="tick" opacity="1" transform="translate(0,105.5)"><line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/><text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text></g></g><path transform="translate(10,10)" d="M10,10L41,81.25L72,105L103,57.5L134,105L165,89.167L196,97.083" fill="transparent" stroke="#87ceeb" stroke-width="2"/><path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,97.083L165,89.167L134,105L103,57.5L72,105L41,81.25L10,10Z" fill="rgba(88, 166, 255, .1)"/><g><circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="41" cy="81.25" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="103" cy="57.5" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="165" cy="89.16666666666667" r="2" fill="#106cbc"/><circle transform="translate(10,10)" cx="196" cy="97.08333333333333" r="2" fill="#106cbc"/></g><g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill"><text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">12</text><text transform="translate(10,6)" x="41" y="81.25" fill="rgba(127, 127, 127, .8)">3</text><text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="103" y="57.5" fill="rgba(127, 127, 127, .8)">6</text><text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)"/><text transform="translate(10,6)" x="165" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">2</text><text transform="translate(10,6)" x="196" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">1</text></g></svg>
               </div>
             
           </section>
@@ -2092,11 +2092,11 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-79.111,11.895L0,0Z"><title>HTML
-2.80</title></path><path fill="#427819" d="M-79.253,10.905A80,80,0,0,1,-79.218,-11.158L0,0Z"><title>Makefile
-0.17</title></path><path fill="#6E4C13" d="M-79.072,-12.147A80,80,0,0,1,-78.115,-17.265L0,0Z"><title>Assembly
-0.04</title></path><path fill="#f34b7d" d="M-77.893,-18.24A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>C++
-0.82</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(30.232490161374393,26.191535629710614)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">2.80</tspan></text><text transform="translate(-39.99994922829001,-0.06373173637461413)"><tspan x="0" y="0em" font-weight="bold">Makefile</tspan><tspan x="0" y="1.1em">0.17</tspan></text><text transform="translate(-39.317619507640444,-7.356955637518271)"><tspan x="0" y="0em" font-weight="bold">Assembly</tspan></text><text transform="translate(-24.949336241634697,-31.265486100520704)"><tspan x="0" y="0em" font-weight="bold">C++</tspan><tspan x="0" y="1.1em">0.82</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#e34c26" d="M0.5,-79.998A80,80,0,1,1,-78.959,12.863L0,0Z"><title>HTML
+2.53</title></path><path fill="#427819" d="M-79.114,11.875A80,80,0,0,1,-79.235,-11.039L0,0Z"><title>Makefile
+0.16</title></path><path fill="#6E4C13" d="M-79.091,-12.028A80,80,0,0,1,-78.023,-17.675L0,0Z"><title>Assembly
+0.04</title></path><path fill="#f34b7d" d="M-77.796,-18.649A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>C++
+0.74</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(30.392230172435948,26.006005943736806)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">2.53</tspan></text><text transform="translate(-39.999442919482895,0.21110691847964852)"><tspan x="0" y="0em" font-weight="bold">Makefile</tspan><tspan x="0" y="1.1em">0.16</tspan></text><text transform="translate(-39.30374839305918,-7.430704021497431)"><tspan x="0" y="0em" font-weight="bold">Assembly</tspan></text><text transform="translate(-24.86713291821751,-31.330906473124955)"><tspan x="0" y="0em" font-weight="bold">C++</tspan><tspan x="0" y="1.1em">0.74</tspan></text></g></svg>
               </div>
             
           </section>
@@ -2144,7 +2144,7 @@
                   
                   <div class="name">
                     <span>jcubic/jquery.terminal</span>
-                    <span>starred 2 hours ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2191,7 +2191,7 @@
                   
                   <div class="name">
                     <span>danny-avila/LibreChat</span>
-                    <span>starred 10 hours ago</span>
+                    <span>starred 11 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2353,6 +2353,126 @@
                 
                 
                 
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">berlintay/KeaysBootXYZ_WEB</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">master</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#98ad12e</div>
+                        <div class="message">Update README.md</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+                  <div class="timestamp">
+                    29 Jul 2024, 01:17:57
+                  </div>
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">berlintay/KeaysBootXYZ_WEB</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">master</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#3f293d4</div>
+                        <div class="message">Add files via upload</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+                  <div class="timestamp">
+                    29 Jul 2024, 01:12:26
+                  </div>
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">berlintay/KeaysBootXYZ_WEB</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">master</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#287c1a4</div>
+                        <div class="message">gr</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+                  <div class="timestamp">
+                    29 Jul 2024, 01:08:58
+                  </div>
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 
                   <div class="field">
@@ -2406,126 +2526,6 @@
                 
                   <div class="timestamp">
                     28 Jul 2024, 23:50:08
-                  </div>
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">berlintay/KeaysBootXYZ_WEB</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#c92a11a</div>
-                        <div class="message">Update README.md</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-                  <div class="timestamp">
-                    28 Jul 2024, 23:49:24
-                  </div>
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">berlintay/KeaysBootXYZ_WEB</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#f83f3f0</div>
-                        <div class="message">Update README.md</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-                  <div class="timestamp">
-                    28 Jul 2024, 23:48:46
-                  </div>
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">berlintay/KeaysBootXYZ_WEB</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#bb47b83</div>
-                        <div class="message">Update README.md</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-                  <div class="timestamp">
-                    28 Jul 2024, 23:47:55
                   </div>
                 
               </section>
@@ -3394,7 +3394,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 29 Jul 2024, 01:08:26 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 29 Jul 2024, 02:08:15 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
