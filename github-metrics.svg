@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    517k added, 219k removed
+                    521k added, 219k removed
                   
                 </div>
             
@@ -2092,12 +2092,13 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#e34c26" d="M0.5,-79.998A80,80,0,0,1,56.654,56.483L0,0Z"><title>HTML
-13.67</title></path><path fill="#f1e05a" d="M55.944,57.187A80,80,0,0,1,-69.819,-39.056L0,0Z"><title>JavaScript
-16.62</title></path><path fill="#563d7c" d="M-69.325,-39.925A80,80,0,0,1,-20.546,-77.317L0,0Z"><title>CSS
-4.59</title></path><path fill="#3572A5" d="M-19.578,-77.567A80,80,0,0,1,-19.045,-77.7L0,0Z"><title>Python
-0.04</title></path><path fill="#00ADD8" d="M-18.072,-77.932A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Go
-1.29</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(36.991346466477914,-15.219733460116577)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">13.67</tspan></text><text transform="translate(-24.309369943074614,31.76561872482166)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">16.62</tspan></text><text transform="translate(-24.334816890909398,-31.74612869132094)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">4.59</tspan></text><text transform="translate(-9.655719360059553,-38.81709782608395)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text><text transform="translate(-4.6716168395210005,-39.7262633040751)"><tspan x="0" y="0em" font-weight="bold">Go</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#e34c26" d="M0.5,-79.998A80,80,0,0,1,61.453,51.22L0,0Z"><title>HTML
+13.36</title></path><path fill="#f1e05a" d="M60.808,51.984A80,80,0,0,1,-76.134,-24.568L0,0Z"><title>JavaScript
+16.24</title></path><path fill="#563d7c" d="M-75.821,-25.518A80,80,0,0,1,-37.426,-70.706L0,0Z"><title>CSS
+4.49</title></path><path fill="#3572A5" d="M-36.539,-71.168A80,80,0,0,1,-36.178,-71.352L0,0Z"><title>Python
+0.03</title></path><path fill="#012456" d="M-35.283,-71.799A80,80,0,0,1,-24.891,-76.029L0,0Z"><title>PowerShell
+0.83</title></path><path fill="#00ADD8" d="M-23.939,-76.334A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Go
+1.76</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(36.277112023390174,-16.851443357837343)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">13.36</tspan></text><text transform="translate(-19.517737980107558,34.9150097256161)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">16.24</tspan></text><text transform="translate(-30.482461171230128,-25.90018457355946)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">4.49</tspan></text><text transform="translate(-18.17935505233799,-35.630198566399166)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text><text transform="translate(-15.080681922074792,-37.048252762650044)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text><text transform="translate(-6.177992856671083,-39.52002535756931)"><tspan x="0" y="0em" font-weight="bold">Go</tspan><tspan x="0" y="1.1em">1.76</tspan></text></g></svg>
               </div>
             
           </section>
@@ -3079,7 +3080,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.34m out of 214m repositories
+                      ranked 5.34m out of 183m repositories
                     </span>
                   
                   
@@ -3417,7 +3418,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 12 Aug 2024, 02:07:27 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 12 Aug 2024, 03:09:24 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
