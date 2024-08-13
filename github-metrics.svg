@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    208k added, 783 removed
+                    488k added, 216k removed
                   
                 </div>
             
@@ -2092,13 +2092,13 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#e34c26" d="M0.5,-79.998A80,80,0,0,1,11.113,79.224L0,0Z"><title>HTML
-19.12</title></path><path fill="#f1e05a" d="M10.122,79.357A80,80,0,0,1,-68.749,-40.91L0,0Z"><title>JavaScript
-14.26</title></path><path fill="#563d7c" d="M-68.232,-41.766A80,80,0,0,1,-31.459,-73.555L0,0Z"><title>CSS
-3.94</title></path><path fill="#3572A5" d="M-30.537,-73.943A80,80,0,0,1,-30.189,-74.085L0,0Z"><title>Python
-0.03</title></path><path fill="#012456" d="M-29.26,-74.457A80,80,0,0,1,-20.571,-77.31L0,0Z"><title>PowerShell
-0.73</title></path><path fill="#00ADD8" d="M-19.603,-77.561A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Go
-1.54</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(39.911430268746145,-2.6604010793514177)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">19.12</tspan></text><text transform="translate(-33.44881363808888,21.93574403124725)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">14.26</tspan></text><text transform="translate(-26.15909415039766,-30.260564985317625)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">3.94</tspan></text><text transform="translate(-15.181413522471189,-37.00708963779412)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text><text transform="translate(-12.478221153676241,-38.00386818259356)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text><text transform="translate(-5.062537218214133,-39.67834065222734)"><tspan x="0" y="0em" font-weight="bold">Go</tspan><tspan x="0" y="1.1em">1.54</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#e34c26" d="M0.5,-79.998A80,80,0,0,1,11.182,79.215L0,0Z"><title>HTML
+19.10</title></path><path fill="#f1e05a" d="M10.191,79.348A80,80,0,0,1,-68.779,-40.859L0,0Z"><title>JavaScript
+14.25</title></path><path fill="#563d7c" d="M-68.263,-41.715A80,80,0,0,1,-31.479,-73.547L0,0Z"><title>CSS
+3.94</title></path><path fill="#3572A5" d="M-30.557,-73.934A80,80,0,0,1,-30.209,-74.077L0,0Z"><title>Python
+0.03</title></path><path fill="#012456" d="M-29.28,-74.449A80,80,0,0,1,-20.585,-77.306L0,0Z"><title>PowerShell
+0.73</title></path><path fill="#00ADD8" d="M-19.617,-77.558A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Go
+1.54</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(39.91027458932396,-2.677682244920459)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">19.10</tspan></text><text transform="translate(-33.43117849385785,21.96261151393014)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">14.25</tspan></text><text transform="translate(-26.174433101348477,-30.247298256588685)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">3.94</tspan></text><text transform="translate(-15.19145350403063,-37.00296934618728)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text><text transform="translate(-12.486817078431546,-38.001044712610074)"><tspan x="0" y="0em" font-weight="bold">PowerShell</tspan></text><text transform="translate(-5.066164887153804,-39.677877631448105)"><tspan x="0" y="0em" font-weight="bold">Go</tspan><tspan x="0" y="1.1em">1.54</tspan></text></g></svg>
               </div>
             
           </section>
@@ -2146,7 +2146,7 @@
                   
                   <div class="name">
                     <span>nektos/act</span>
-                    <span>starred 12 hours ago</span>
+                    <span>starred 13 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2695,7 +2695,7 @@ jquery<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 979k out of 142m users
+                      ranked 979k out of 141m users
                     </span>
                   
                   
@@ -2864,7 +2864,7 @@ jquery<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 2.74m out of 142m users
+                      ranked 2.74m out of 141m users
                     </span>
                   
                   
@@ -3066,7 +3066,7 @@ jquery<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.34m out of 214m repositories
+                      ranked 5.34m out of 212m repositories
                     </span>
                   
                   
@@ -3404,7 +3404,7 @@ jquery<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 13 Aug 2024, 07:07:42 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 13 Aug 2024, 08:06:58 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
