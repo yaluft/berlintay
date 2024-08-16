@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    203k added, 814 removed
+                    336k added, 224k removed
                   
                 </div>
             
@@ -2092,11 +2092,12 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,27.106,75.268L0,0Z"><title>JavaScript
-19.84</title></path><path fill="#563d7c" d="M26.163,75.601A80,80,0,0,1,-38.793,69.965L0,0Z"><title>CSS
-5.97</title></path><path fill="#e34c26" d="M-39.665,69.474A80,80,0,0,1,-1.95,-79.976L0,0Z"><title>HTML
-18.48</title></path><path fill="#3572A5" d="M-0.95,-79.994A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Python
-0.04</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(39.42536736504292,-6.75576850783154)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">19.84</tspan></text><text transform="translate(-3.4577497577736542,39.85026934178257)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">5.97</tspan></text><text transform="translate(-38.78408108289265,-9.78749480488283)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">18.48</tspan></text><text transform="translate(-0.36248202812713115,-39.998357551020575)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,44.698,66.348L0,0Z"><title>JavaScript
+18.38</title></path><path fill="#563d7c" d="M43.865,66.902A80,80,0,0,1,-14.686,78.64L0,0Z"><title>CSS
+5.53</title></path><path fill="#e34c26" d="M-15.668,78.451A80,80,0,0,1,-3.274,-79.933L0,0Z"><title>HTML
+20.99</title></path><path fill="#89e051" d="M-2.274,-79.968A80,80,0,0,1,-1.832,-79.979L0,0Z"><title>Shell
+0.04</title></path><path fill="#3572A5" d="M-0.832,-79.996A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Python
+0.03</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(38.29183943281735,-11.564386401851776)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">18.38</tspan></text><text transform="translate(7.862930395675964,39.21956559668599)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">5.53</tspan></text><text transform="translate(-39.878090542066296,-3.120560000827253)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">20.99</tspan></text><text transform="translate(-1.0265466240306265,-39.986825355718)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan></text><text transform="translate(-0.3329939562580786,-39.99861391379826)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text></g></svg>
               </div>
             
           </section>
@@ -2144,7 +2145,7 @@
                   
                   <div class="name">
                     <span>claytonjhamilton/claytonjhamilton</span>
-                    <span>starred 17 hours ago</span>
+                    <span>starred 18 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3039,7 +3040,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.34m out of 209m repositories
+                      ranked 5.34m out of 204m repositories
                     </span>
                   
                   
@@ -3377,7 +3378,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 16 Aug 2024, 08:06:55 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 16 Aug 2024, 09:11:22 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
