@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    51.3k added, 8.86k removed
+                    240k added, 4.53k removed
                   
                 </div>
             
@@ -2092,12 +2092,12 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,43.951,66.845L0,0Z"><title>JavaScript
-18.42</title></path><path fill="#563d7c" d="M43.112,67.39A80,80,0,0,1,-15.809,78.422L0,0Z"><title>CSS
-5.54</title></path><path fill="#e34c26" d="M-16.788,78.219A80,80,0,0,1,-3.275,-79.933L0,0Z"><title>HTML
-20.84</title></path><path fill="#89e051" d="M-2.276,-79.968A80,80,0,0,1,-1.833,-79.979L0,0Z"><title>Shell
-0.04</title></path><path fill="#3572A5" d="M-0.833,-79.996A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Python
-0.03</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(38.356066697621245,-11.349543933023511)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">18.42</tspan></text><text transform="translate(7.3619605921227045,39.31668267084638)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">5.54</tspan></text><text transform="translate(-39.85479084963703,-3.4052380726886957)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">20.84</tspan></text><text transform="translate(-1.027163000596529,-39.98680952727043)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan></text><text transform="translate(-0.3331789237752381,-39.99861237349056)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,35.837,71.524L0,0Z"><title>JavaScript
+18.90</title></path><path fill="#563d7c" d="M34.94,71.966A80,80,0,0,1,-27.483,75.131L0,0Z"><title>CSS
+5.68</title></path><path fill="#e34c26" d="M-28.42,74.782A80,80,0,0,1,-3.29,-79.932L0,0Z"><title>HTML
+19.37</title></path><path fill="#89e051" d="M-2.291,-79.967A80,80,0,0,1,-1.839,-79.979L0,0Z"><title>Shell
+0.04</title></path><path fill="#3572A5" d="M-0.839,-79.996A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Python
+0.03</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(38.95466743632295,-9.084816174556325)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">18.90</tspan></text><text transform="translate(2.025335351097664,39.94869230294772)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">5.68</tspan></text><text transform="translate(-39.48257880811873,-6.412953349330854)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">19.37</tspan></text><text transform="translate(-1.032515258844769,-39.98667168245255)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan></text><text transform="translate(-0.33478507769211713,-39.9985989623606)"><tspan x="0" y="0em" font-weight="bold">Python</tspan></text></g></svg>
               </div>
             
           </section>
@@ -2145,7 +2145,7 @@
                   
                   <div class="name">
                     <span>mikey506/cuberite-</span>
-                    <span>starred 16 hours ago</span>
+                    <span>starred 17 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3023,7 +3023,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.34m out of 214m repositories
+                      ranked 5.34m out of 207m repositories
                     </span>
                   
                   
@@ -3361,7 +3361,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 17 Aug 2024, 04:06:50 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 17 Aug 2024, 05:08:24 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
