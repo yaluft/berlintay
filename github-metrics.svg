@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    506k added, 221k removed
+                    528k added, 223k removed
                   
                 </div>
             
@@ -2092,11 +2092,11 @@
             <h3>Language activity</h3>
             
               <div class="margin-bottom">
-                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,49.036,63.21L0,0Z"><title>JavaScript
-17.88</title></path><path fill="#563d7c" d="M48.242,63.818A80,80,0,0,1,-11.204,79.212L0,0Z"><title>CSS
-5.69</title></path><path fill="#e34c26" d="M-12.193,79.065A80,80,0,0,1,-1.943,-79.976L0,0Z"><title>HTML
-21.41</title></path><path fill="#89e051" d="M-0.943,-79.994A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Shell
-0.04</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(37.883358753795335,-12.839436495860657)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">17.88</tspan></text><text transform="translate(10.027479735340046,38.72272782433263)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">5.69</tspan></text><text transform="translate(-39.9171808400621,-2.5726783284699106)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">21.41</tspan></text><text transform="translate(-0.36075806431330804,-39.99837313715438)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan></text></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160"><g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round"><path fill="#f1e05a" d="M0.5,-79.998A80,80,0,0,1,43.493,67.145L0,0Z"><title>JavaScript
+18.42</title></path><path fill="#563d7c" d="M42.65,67.683A80,80,0,0,1,-16.507,78.279L0,0Z"><title>CSS
+5.54</title></path><path fill="#e34c26" d="M-17.484,78.066A80,80,0,0,1,-1.945,-79.976L0,0Z"><title>HTML
+20.84</title></path><path fill="#89e051" d="M-0.945,-79.994A80,80,0,0,1,-0.5,-79.998L0,0Z"><title>Shell
+0.04</title></path></g><g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill"><text transform="translate(38.39467722998231,-11.218233390577943)"><tspan x="0" y="0em" font-weight="bold">JavaScript</tspan><tspan x="0" y="1.1em">18.42</tspan></text><text transform="translate(7.0522113393201336,39.37342143153887)"><tspan x="0" y="0em" font-weight="bold">CSS</tspan><tspan x="0" y="1.1em">5.54</tspan></text><text transform="translate(-39.808045836543414,-3.9140115834854794)"><tspan x="0" y="0em" font-weight="bold">HTML</tspan><tspan x="0" y="1.1em">20.84</tspan></text><text transform="translate(-0.36120267894451874,-39.99836912456211)"><tspan x="0" y="0em" font-weight="bold">Shell</tspan></text></g></svg>
               </div>
             
           </section>
@@ -3019,7 +3019,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.35m out of 205m repositories
+                      ranked 5.35m out of 212m repositories
                     </span>
                   
                   
@@ -3357,7 +3357,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 18 Aug 2024, 22:34:20 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 18 Aug 2024, 23:22:13 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
